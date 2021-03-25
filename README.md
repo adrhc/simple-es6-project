@@ -16,3 +16,6 @@ https://www.npmtrends.com/eslint-config-airbnb-vs-eslint-config-recommended-vs-e
 # parcel
 https://v2.parceljs.org/getting-started/webapp/
 npm install -D parcel@next
+
+# to install
+VS Code - Debugger for Chrome
