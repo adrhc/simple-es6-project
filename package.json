@@ -13,8 +13,7 @@
         "browsers": "> 0.5%"
       },
       "distDir": "dist",
-      "publicUrl": ".",
-      "sourceMap": true
+      "publicUrl": "."
     }
   },
   "repository": {
