@@ -14,4 +14,5 @@ npx install-peerdeps --dev eslint-config-airbnb-base
 https://www.npmtrends.com/eslint-config-airbnb-vs-eslint-config-recommended-vs-eslint-config-standard
 
 # parcel
+https://v2.parceljs.org/getting-started/webapp/
 npm install -D parcel@next
