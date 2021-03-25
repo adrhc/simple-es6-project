@@ -3,10 +3,11 @@
   "env": {
     "browser": true,
     "es6": true,
-    "worker": true
+    "worker": true,
+    "node": true
   },
   "parserOptions": {
-    "ecmaVersion": 10,
-    "sourceType": "script"
+    "ecmaVersion": 2018,
+    "sourceType": "module"
   }
 }
