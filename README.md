@@ -12,3 +12,6 @@ npx install-peerdeps --dev eslint-config-airbnb-base
 
 # eslint-config-airbnb vs eslint-config-recommended vs eslint-config-standard
 https://www.npmtrends.com/eslint-config-airbnb-vs-eslint-config-recommended-vs-eslint-config-standard
+
+# parcel
+npm install -D parcel@next
